@@ -1,0 +1,38 @@
+/* table style */
+
+tr {
+    text-align: left;
+    vertical-align: center;
+}
+
+td {
+    padding: 5px 5px 5px 5px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 2px 2px 2px 2px;
+}
+
+table#table {
+    border: 1px solid black;
+}
+
+td.name {
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    text-shadow: 1px 1px 3px #ff9900;
+    font-family: cursive;
+    margin: 0;
+    border-radius: 3px;
+    background: rgba(160, 0, 141, 0.11);
+    padding: 5px;
+}
+
+body {
+    margin: 2px;
+}
